@@ -7,17 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="game-config" />
+        <module name="game-play" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="game-commons" target="1.8" />
       <module name="game-config" target="1.8" />
+      <module name="game-play" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="game-commons" options="" />
       <module name="game-config" options="-parameters" />
+      <module name="game-play" options="-parameters" />
     </option>
   </component>
 </project>

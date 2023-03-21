@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/game-cloud.iml" filepath="$PROJECT_DIR$/game-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/game-commons/game-commons.iml" filepath="$PROJECT_DIR$/game-commons/game-commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/game-config/game-config.iml" filepath="$PROJECT_DIR$/game-config/game-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game-play/game-play.iml" filepath="$PROJECT_DIR$/game-play/game-play.iml" />
     </modules>
   </component>
 </project>
